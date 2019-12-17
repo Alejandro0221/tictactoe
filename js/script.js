@@ -1,4 +1,5 @@
-
+let playerone ="x"
+let playertwo = "o"
 
 
 
